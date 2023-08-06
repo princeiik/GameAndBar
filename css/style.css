@@ -1,14 +1,18 @@
 body{
-	font-family: 'Righteous', cursive;
+	/* font-family: 'Righteous', cursive; */
 	background-color: rgb(240, 240, 240);
-	/* font-family: 'Press Start 2P', cursive; */
-	/* font-size: 25px; */
+	font-family: 'Press Start 2P', cursive;
+	font-size: 17px;
 }
 .nav-item{
 	padding-right: 12px;
 	padding-left: 12px;
 	font-family: 'Righteous', cursive;
-	/* font-size: 1.3rem; */
+	font-size: 1.3rem;
+}
+
+.text-center {
+	font-size: 1.2rem;
 }
 
 a.navbar-brand {
